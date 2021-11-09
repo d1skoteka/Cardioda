@@ -1,2 +1,3 @@
 # Cardioda
  
+pip install pygame
